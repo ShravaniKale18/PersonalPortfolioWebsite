@@ -37,7 +37,7 @@ Since this is a static website, no heavy backend servers or package managers are
 3. **Open `index.html`** in any web browser of your choice.
 
 ## 📬 Contact
-- **Email**: shravanikale1803@example.com *(Replace with your actual email if needed)*
+- **Email**: shravanikale1803@gmail.com 
 - **LinkedIn**: [Shravani Kale](https://www.linkedin.com/in/kale-shravani)
 - **GitHub**: [ShravaniKale18](https://github.com/ShravaniKale18)
 
